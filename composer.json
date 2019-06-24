@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "breadhead\\yii2-swagger\\": ""
+            "yii2mod\\swagger\\": ""
         }
     },
     "repositories": [
